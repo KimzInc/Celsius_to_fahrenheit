@@ -1,0 +1,6 @@
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
+a.exe
+header.h.gch
